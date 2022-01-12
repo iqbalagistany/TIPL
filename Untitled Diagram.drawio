@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T07:50:59.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WTmxR1bGYO0DCDfQxr_o" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T07:53:21.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iScD3dFE1t9MjjCIXFxE" version="16.2.4" type="github">
   <diagram id="D3arouLp0Xx4ZUcW7ZfT" name="Page-1">
     <mxGraphModel dx="1200" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -243,11 +243,28 @@
             <mxPoint x="-55" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0cTZflGvRC0s0U41Xg0D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.039;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L34SkDO0q05u7ISoF-Z0-75" target="0cTZflGvRC0s0U41Xg0D-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="87.5" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="570" />
+              <mxPoint x="100" y="1113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cTZflGvRC0s0U41Xg0D-16" value="konfirmasi pembayaran" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0cTZflGvRC0s0U41Xg0D-15">
+          <mxGeometry x="0.5894" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L34SkDO0q05u7ISoF-Z0-75" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="86.91" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0cTZflGvRC0s0U41Xg0D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="L34SkDO0q05u7ISoF-Z0-76" target="0cTZflGvRC0s0U41Xg0D-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L34SkDO0q05u7ISoF-Z0-76" value="Pembayaran" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="629.91" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L34SkDO0q05u7ISoF-Z0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="L34SkDO0q05u7ISoF-Z0-64" target="L34SkDO0q05u7ISoF-Z0-68" edge="1">
           <mxGeometry relative="1" as="geometry">
